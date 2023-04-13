@@ -1,0 +1,17 @@
+<PortfolioModel>
+<PortfolioElementModel>
+<StockTicker>GOOG</StockTicker>
+<totalQuantity>100</totalQuantity>
+<Date>2022-09-22</Date>
+</PortfolioElementModel>
+<PortfolioElementModel>
+<StockTicker>GOOG</StockTicker>
+<totalQuantity>200</totalQuantity>
+<Date>2021-09-22</Date>
+</PortfolioElementModel>
+<PortfolioElementModel>
+<StockTicker>MSFT</StockTicker>
+<totalQuantity>10</totalQuantity>
+<Date>2022-09-15</Date>
+</PortfolioElementModel>
+</PortfolioModel>

@@ -1,0 +1,8 @@
+<PortfolioModel>
+<PortfolioElementModel>
+<StockTicker> GOOG </StockTicker>
+<totalQuantity> 0 </totalQuantity>
+<Date> 2022-10-27 </Date>
+<BrokerCommission> 100.9</BrokerCommission>
+</PortfolioElementModel>
+</PortfolioModel>

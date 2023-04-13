@@ -1,0 +1,10 @@
+<PortfolioModel>
+<StockTicker>GOOG</StockTicker>
+<totalQuantity>1000</totalQuantity>
+<Date>2022-10-27</Date>
+<UserSetModel>
+<UserModel id="1000"/>
+<UserModel id="1001"/>
+<UserModel id="1002"/>
+</UserSetModel>
+</PortfolioModel>

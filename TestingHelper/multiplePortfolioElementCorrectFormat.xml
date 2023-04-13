@@ -1,0 +1,12 @@
+<PortfolioModel>
+<PortfolioElementModel>
+<StockTicker> GOOG </StockTicker>
+<totalQuantity> 1000 </totalQuantity>
+<Date> 2022-10-27 </Date>
+</PortfolioElementModel>
+<PortfolioElementModel>
+<StockTicker> AMZN </StockTicker>
+<totalQuantity> 1000 </totalQuantity>
+<Date> 2022-10-27 </Date>
+</PortfolioElementModel>
+</PortfolioModel>
